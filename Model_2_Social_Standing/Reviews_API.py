@@ -273,6 +273,8 @@ def classify_text_with_gemini(text):
         if response:
             generated_text = response.text
             
+            time.sleep(0.5)
+            
             # Try to extract JSON from the response
             json_match = re.search(r'\{.*\}', generated_text, re.DOTALL)
             if json_match:
@@ -390,7 +392,8 @@ def aggregate_scores(texts):
             continue
             
         try:
-            classification = classify_text_with_gemini(text)
+            classification = classify_text_with_gemini(text[:800])
+            time.sleep(0.3)
             score = calculate_sentiment_score(classification)
             
             total_score += score

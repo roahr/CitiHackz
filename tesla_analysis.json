@@ -1,0 +1,39 @@
+{
+  "company_name": "tesla",
+  "sources": {
+    "reddit": {
+      "avg_score": 4.39,
+      "count": 205,
+      "categories": {
+        "RED": 80,
+        "BLUE": 109,
+        "GREEN": 16
+      },
+      "confidence": 0.89
+    }
+  },
+  "overall": {
+    "score": 4.39,
+    "category": "BLUE",
+    "confidence": 0.77,
+    "category_distribution": {
+      "RED": 80,
+      "BLUE": 109,
+      "GREEN": 16
+    },
+    "total_samples": 205,
+    "clustering": {
+      "labels": [
+        0
+      ],
+      "scores": [
+        4.39
+      ],
+      "sources": [
+        "reddit"
+      ]
+    }
+  },
+  "timestamp": "2025-03-07 11:45:26",
+  "interpretation": "The company has a neutral or mixed public image (score: 4.39/10) with moderate confidence, based on a large sample size. Reddit data shows a neutral sentiment (4.39/10) based on 205 samples."
+}
