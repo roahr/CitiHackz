@@ -4,7 +4,7 @@
 
 PUBLIC DEPLOYED LINK : https://citi-hack.vercel.app/
 
-VIDEO EXPLANATION : https://drive.google.com/file/d/1_eOmskEt8ApQt7vPql3zY5LZKIuDb 1Q/view?usp=sharing
+VIDEO EXPLANATION : VIDEO LINK : https://drive.google.com/file/d/1_eOmskEt8ApQt7vPql3zY5LZKIuDb-1Q/view?usp=sharing
 
 In the **macro-finance industry**, traditional CIBIL score systems often fail to accurately assess the creditworthiness of **MSMEs, startups, and emerging enterprises** due to their limited credit history. This creates barriers to financial inclusion and increases risk for lenders.
 
