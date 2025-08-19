@@ -86,6 +86,8 @@ We propose a **comprehensive, AI-driven credit scoring platform** tailored for m
 ```
 
 ---
+<img width="1824" height="637" alt="Screenshot 2025-03-06 122949" src="https://github.com/user-attachments/assets/1c807176-d5bc-4d74-9ee3-5753593492f1" />
+
 
 ## ⚖️ Key Trade-offs
 
@@ -112,6 +114,7 @@ We propose a **comprehensive, AI-driven credit scoring platform** tailored for m
 * 🛡️ **Reduced Defaults** – Predictive risk monitoring
 * 📡 **Scalability** – Usable across banks, NBFCs, and fintechs
 
+<img width="489" height="336" alt="Screenshot 2025-03-07 064644" src="https://github.com/user-attachments/assets/1392461f-9c81-46c6-9ab8-e8288810a5b4" />
 ---
 
 ## 🖥️ Risk Dashboard UI (Prototype)
@@ -131,6 +134,7 @@ We propose a **comprehensive, AI-driven credit scoring platform** tailored for m
 * 🔹 Risk assessment dashboard (UI + backend)
 * 🔹 API documentation (Swagger/OpenAPI)
 * 🔹 Hackathon presentation deck + demo
+<img width="557" height="646" alt="Screenshot 2025-03-07 065052" src="https://github.com/user-attachments/assets/dcb0ccef-f954-4118-beb7-69aa627580ee" />
 
 ---
 
