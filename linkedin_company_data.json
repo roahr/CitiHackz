@@ -1,1 +1,243 @@
-{}
+[
+  {
+    "company_name": "HDFC Bank",
+    "linkedin_profile_url": "https://www.linkedin.com/company/hdfc-bank/",
+    "website": "https://www.hdfcbank.com/",
+    "tagline": "We Understand Your World.",
+    "description": "HDFC Bank is one of India's leading private banks and was among the first to receive approval from the Reserve Bank of India (RBI) to set up a private sector bank in 1994. The Bank's mission is to be a World-Class Indian Bank.",
+    "industry": "Banking",
+    "company_size": "100,001+ employees",
+    "headquarters": {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India"
+    },
+    "founded_year": 1994,
+    "followers_count": 4500000,
+    "specialties": [
+      "Retail Banking",
+      "Wholesale Banking",
+      "Treasury",
+      "Auto Loans",
+      "Two Wheeler Loans",
+      "Personal Loans",
+      "Credit Cards"
+    ],
+    "last_updated": "2025-08-22"
+  },
+  {
+    "company_name": "ICICI Bank",
+    "linkedin_profile_url": "https://www.linkedin.com/company/icici-bank/",
+    "website": "https://www.icicibank.com/",
+    "tagline": "Khayaal Aapka.",
+    "description": "ICICI Bank is a leading private sector bank in India. The Bank has a wide network of branches and ATMs across India and has a presence in 17 countries.",
+    "industry": "Banking",
+    "company_size": "100,001+ employees",
+    "headquarters": {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India"
+    },
+    "founded_year": 1994,
+    "followers_count": 3800000,
+    "specialties": [
+      "Commercial Banking",
+      "Investment Banking",
+      "Asset Management",
+      "Wealth Management",
+      "Insurance"
+    ],
+    "last_updated": "2025-08-22"
+  },
+  {
+    "company_name": "State Bank of India",
+    "linkedin_profile_url": "https://www.linkedin.com/company/state-bank-of-india/",
+    "website": "https://www.sbi.co.in/",
+    "tagline": "The Banker to Every Indian.",
+    "description": "State Bank of India (SBI) is an Indian multinational, public sector banking and financial services statutory body. It is a government corporation statutory body headquartered in Mumbai, Maharashtra.",
+    "industry": "Banking",
+    "company_size": "200,001+ employees",
+    "headquarters": {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India"
+    },
+    "founded_year": 1955,
+    "followers_count": 2900000,
+    "specialties": [
+      "Corporate Banking",
+      "Retail Banking",
+      "Finance and Insurance",
+      "Wealth Management",
+      "Mortgage Loans"
+    ],
+    "last_updated": "2025-08-22"
+  },
+  {
+    "company_name": "JPMorgan Chase & Co.",
+    "linkedin_profile_url": "https://www.linkedin.com/company/jpmorgan-chase/",
+    "website": "https://www.jpmorganchase.com/",
+    "tagline": "The right relationship is everything.",
+    "description": "JPMorgan Chase & Co. is a global financial services firm with operations worldwide. The firm is a leader in investment banking, financial services for consumers and small businesses, commercial banking, financial transaction processing, and asset management.",
+    "industry": "Financial Services",
+    "company_size": "250,001+ employees",
+    "headquarters": {
+      "city": "New York",
+      "state": "NY",
+      "country": "USA"
+    },
+    "founded_year": 2000,
+    "followers_count": 5200000,
+    "specialties": [
+      "Investment Banking",
+      "Asset Management",
+      "Private Banking",
+      "Commercial Banking",
+      "Treasury Services"
+    ],
+    "last_updated": "2025-08-22"
+  },
+  {
+    "company_name": "Bank of America",
+    "linkedin_profile_url": "https://www.linkedin.com/company/bank-of-america/",
+    "website": "https://www.bankofamerica.com/",
+    "tagline": "What would you like the power to do?",
+    "description": "Bank of America is one of the world's leading financial institutions, serving individual consumers, small and middle-market businesses and large corporations with a full range of banking, investing, asset management and other financial and risk management products and services.",
+    "industry": "Financial Services",
+    "company_size": "200,001+ employees",
+    "headquarters": {
+      "city": "Charlotte",
+      "state": "North Carolina",
+      "country": "USA"
+    },
+    "founded_year": 1998,
+    "followers_count": 3500000,
+    "specialties": [
+      "Wealth Management",
+      "Corporate and Investment Banking",
+      "Retail Banking",
+      "Mortgage",
+      "Credit Cards"
+    ],
+    "last_updated": "2025-08-22"
+  },
+  {
+    "company_name": "HSBC",
+    "linkedin_profile_url": "https://www.linkedin.com/company/hsbc/",
+    "website": "https://www.hsbc.com/",
+    "tagline": "Opening up a world of opportunity.",
+    "description": "HSBC is one of the world’s largest banking and financial services organisations. We serve more than 40 million customers through our global businesses: Wealth and Personal Banking, Commercial Banking, and Global Banking & Markets.",
+    "industry": "Banking",
+    "company_size": "200,001+ employees",
+    "headquarters": {
+      "city": "London",
+      "state": "",
+      "country": "United Kingdom"
+    },
+    "founded_year": 1865,
+    "followers_count": 4800000,
+    "specialties": [
+      "Commercial Banking",
+      "Global Banking and Markets",
+      "Retail Banking and Wealth Management",
+      "Global Private Banking"
+    ],
+    "last_updated": "2025-08-22"
+  },
+  {
+    "company_name": "Citi",
+    "linkedin_profile_url": "https://www.linkedin.com/company/citi/",
+    "website": "https://www.citigroup.com/citi/",
+    "tagline": "Enabling progress.",
+    "description": "Citi is a global bank, with a mission to serve as a trusted partner to our clients by responsibly providing financial services that enable growth and economic progress.",
+    "industry": "Financial Services",
+    "company_size": "200,001+ employees",
+    "headquarters": {
+      "city": "New York",
+      "state": "NY",
+      "country": "USA"
+    },
+    "founded_year": 1812,
+    "followers_count": 4200000,
+    "specialties": [
+      "Consumer Banking",
+      "Corporate Banking",
+      "Investment Banking",
+      "Wealth Management",
+      "Transaction Services"
+    ],
+    "last_updated": "2025-08-22"
+  },
+  {
+    "company_name": "Goldman Sachs",
+    "linkedin_profile_url": "https://www.linkedin.com/company/goldman-sachs/",
+    "website": "https://www.goldmansachs.com/",
+    "tagline": "Progress is everyone's business.",
+    "description": "Goldman Sachs is a leading global financial institution that delivers a broad range of financial services across investment banking, securities, investment management and consumer banking to a large and diversified client base.",
+    "industry": "Financial Services",
+    "company_size": "10,001-50,000 employees",
+    "headquarters": {
+      "city": "New York",
+      "state": "NY",
+      "country": "USA"
+    },
+    "founded_year": 1869,
+    "followers_count": 3100000,
+    "specialties": [
+      "Investment Management",
+      "Investment Banking",
+      "Securities",
+      "Asset Management",
+      "Consumer Banking"
+    ],
+    "last_updated": "2025-08-22"
+  },
+  {
+    "company_name": "Axis Bank",
+    "linkedin_profile_url": "https://www.linkedin.com/company/axis-bank/",
+    "website": "https://www.axisbank.com/",
+    "tagline": "Dil Se Open.",
+    "description": "Axis Bank is the third largest private sector bank in India. The Bank offers the entire spectrum of financial services to customer segments covering Large and Mid-Corporates, MSME, Agriculture and Retail Businesses.",
+    "industry": "Banking",
+    "company_size": "50,001-100,000 employees",
+    "headquarters": {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India"
+    },
+    "founded_year": 1993,
+    "followers_count": 1800000,
+    "specialties": [
+      "Retail banking",
+      "Corporate Banking",
+      "International Banking",
+      "Digital Banking",
+      "Agri & Rural Banking"
+    ],
+    "last_updated": "2025-08-22"
+  },
+  {
+    "company_name": "Kotak Mahindra Bank",
+    "linkedin_profile_url": "https://www.linkedin.com/company/kotak-mahindra-bank/",
+    "website": "https://www.kotak.com/",
+    "tagline": "Let's make money simple.",
+    "description": "Kotak Mahindra Bank is an Indian banking and financial services company headquartered in Mumbai, India. It offers banking products and financial services for corporate and retail customers in the areas of personal finance, investment banking, life insurance, and wealth management.",
+    "industry": "Banking",
+    "company_size": "50,001-100,000 employees",
+    "headquarters": {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India"
+    },
+    "founded_year": 1985,
+    "followers_count": 1200000,
+    "specialties": [
+      "Personal Finance",
+      "Investment Banking",
+      "Life Insurance",
+      "Wealth Management",
+      "Commercial Banking"
+    ],
+    "last_updated": "2025-08-22"
+  }
+]
